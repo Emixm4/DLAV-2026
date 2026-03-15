@@ -1,0 +1,7 @@
+
+# Large data files
+graded_homework/hw1/data/cifar-10-python.tar.gz
+*.tar.gz
+*.tar
+**/__pycache__/
+*.pyc
